@@ -48,7 +48,7 @@ Arithmetic Mean, arithmean.md
     * markdown supports mathematical notation
     * one file per topic makes it easy to add topics
 * Also supports a live application for each topic (next slide)
-* See the prototype [Study notebook](https://gardnerpomper.github.io/testDeck/index.html)
+* See the prototype [Study notebook](https://gardnerpomper.shinyapps.io/DevelopingDataProducts/)
 
 ---
 

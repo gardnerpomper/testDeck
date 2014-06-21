@@ -51,12 +51,12 @@ Arithmetic Mean, arithmean.md
     * markdown supports mathematical notation
     * one file per topic makes it easy to add topics
 * Also supports a live application for each topic (next slide)
-* See the prototype [Study notebook](https://gardnerpomper.github.io/testDeck/index.html)
+* See the prototype [Study notebook](https://gardnerpomper.shinyapps.io/DevelopingDataProducts/)
 
 ---
 
 ## Each topic can have its own live application tab
-* each topic can have its own custom layout and controls in the *App* tab. This examples shows 1 input control (latex_formula) and one output (latex_render), with a submit button (latex_go)
+* each topic can have its own custom layout and controls in the *App* tab. This example shows 1 input control (latex_formula) and one output (latex_render), with a submit button (latex_go)
 <pre>
     "latex.md" = fluidRow(
             column(3,
