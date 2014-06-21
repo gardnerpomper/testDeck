@@ -1,7 +1,7 @@
 ---
-title       : Test deck
-subtitle    : 
-author      : 
+title       : Study notebook pitch
+subtitle    : Project for Developing Data Products
+author      : Gardner Pomper
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -22,9 +22,8 @@ mode        : selfcontained # {standalone, draft}
 
 
 ```r
-plot(1:10, 1:10)
+plot(1 : 10, 1 : 10)
 ```
 
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
-
 
